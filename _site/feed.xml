@@ -1,33 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-24T10:33:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CoderDojo Montpellier</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Example session!</title><link href="http://localhost:4000/cd/session/2026/04/23/example.html" rel="alternate" type="text/html" title="Example session!" /><published>2026-04-23T11:31:29+02:00</published><updated>2026-04-23T11:31:29+02:00</updated><id>http://localhost:4000/cd/session/2026/04/23/example</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/04/23/example.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-24T12:22:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CoderDojo Montpellier</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Atelier Python | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier Python | médiathèque Emile Zola" /><published>2026-02-07T10:31:29+01:00</published><updated>2026-02-07T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2026/02/07/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html"><![CDATA[<p>Les plus anciens d'entre nous se souviennent peut-être des jeux d'aventure sur les
+premiers PC. Le graphisme était rudimentaire, les commandes étaient passées au
+format texte dans un prompt austère. Ci-dessus une copie d'écran du jeu Tera
+(1986).</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>C'est cette touche vintage que nous donnerons à notre jeu au cours de <strong>l'atelier
+Python</strong> que CoderDojo Montpellier animera à La Fabrique de la médiathèque Emile
+Zola samedi prochain.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>Nous y apprendrons à composer une scène et à naviguer entre plusieurs écrans
+grâce à des commandes texte. Comme aux temps des pionniers !</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>✨ <strong>Atelier gratuit. Nombre de places limité. Inscription obligatoire.</strong></p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>Public : 9 ans+ <br />
+10 places</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[Les plus anciens d'entre nous se souviennent peut-être des jeux d'aventure sur les premiers PC. Le graphisme était rudimentaire, les commandes étaient passées au format texte dans un prompt austère. Ci-dessus une copie d'écran du jeu Tera (1986).]]></summary></entry><entry><title type="html">Atelier débranché | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2026/01/10/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier débranché | médiathèque Emile Zola" /><published>2026-01-10T10:31:29+01:00</published><updated>2026-01-10T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2026/01/10/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/01/10/med-emile-zola.html"><![CDATA[<p>Prêts pour un défi sans écran ? Rejoignez CoderDojo Montpellier pour un atelier
+spécial « <strong>informatique débranchée</strong> ». Nous allons explorer les rouages du
+numérique à travers des activités ludiques, car il est possible de maîtriser les bases
+fondamentales de l'informatique <strong>sans même toucher un clavier.</strong></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>Au programme : décoder des messages secrets avec la cryptographie, compter
+comme une machine grâce aux nombres binaires, ou encore découvrir des
+algorithmes de tri ultra-rapides. Ces activités permettent de développer votre «
+<strong>pensée informatique</strong> » tout en stimulant la créativité et la résolution de problèmes
+en équipe.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/kmcg/2026/04/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2026-04-23T11:31:29+02:00</published><updated>2026-04-23T11:31:29+02:00</updated><id>http://localhost:4000/jekyll/kmcg/2026/04/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/kmcg/2026/04/23/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>Pourquoi le débranché ? Parce que l'ordinateur peut parfois être une distraction ; en
+s'en passant, on se concentre sur la logique pure pour comprendre comment les
+machines « pensent » réellement. On vous attend nombreux pour cette aventure où
+<strong>votre cerveau sera le seul processeur</strong> ! ✨</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>✨ <strong>Atelier gratuit. Nombre de places limité. Inscription obligatoire.</strong></p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>Public : 9 ans+ <br />
+10 places</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[Prêts pour un défi sans écran ? Rejoignez CoderDojo Montpellier pour un atelier spécial « informatique débranchée ». Nous allons explorer les rouages du numérique à travers des activités ludiques, car il est possible de maîtriser les bases fondamentales de l'informatique sans même toucher un clavier.]]></summary></entry><entry><title type="html">Atelier robots AlphaAI | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2025/11/15/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier robots AlphaAI | médiathèque Emile Zola" /><published>2025-11-15T10:31:29+01:00</published><updated>2025-11-15T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2025/11/15/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2025/11/15/med-emile-zola.html"><![CDATA[<p>CoderDojo Montpellier animera un <strong>atelier robots AlphAI</strong> le samedi 15 novembre 2025 à 10h
+à la médiathèque Emile Zola.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p><strong>AlphaAI</strong> est un petit robot de course équipé de plusieurs capteurs dont une caméra.
+Au cours de cet atelier, nous lui apprendrons à parcourir le circuit par apprentissage
+supervisé. Il lui faudra apprendre à se déplacer, optimiser ses courbes, doubler, se
+débrouiller quand il est coincé, … </p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>Pour découvrir ces possibilités, <strong>un atelier de programmation de robots AlphAI</strong> est
+organisé le <strong>samedi 15 novembre 2025 à 10h à la médiathèque Émile Zola à Montpellier.</strong></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>✨ Atelier gratuit. Nombre de places limité. Inscription obligatoire.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="kmcg" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Public : 7-11 ans <br />
+8 places</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[CoderDojo Montpellier animera un atelier robots AlphAI le samedi 15 novembre 2025 à 10h à la médiathèque Emile Zola.]]></summary></entry><entry><title type="html">Atelier RenPy à la médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2025/10/31/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier RenPy à la médiathèque Emile Zola" /><published>2025-10-31T10:31:29+01:00</published><updated>2025-10-31T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2025/10/31/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2025/10/31/med-emile-zola.html"><![CDATA[<p>CoderDojo Montpellier animera un <strong>atelier RenPy</strong> le vendredi 31 octobre 2025 à 15h30 à la
+médiathèque Emile Zola.</p>
+
+<p>Nous utiliserons <strong>RenPy</strong>, un moteur de jeu super simple et intuitif basé sur <strong>Python</strong>,
+parfait pour les débutants. En quelques mots, RenPy est un logiciel qui vous permet
+de transformer facilement vos histoires, vos images et votre musique en un véritable
+jeu vidéo de type <strong>Visual Novel</strong>, sans avoir besoin de connaissances complexes en
+programmation. C'est comme construire <strong>un livre dont vous êtes le héros</strong>, mais sur
+ordinateur !</p>
+
+<p>Pour découvrir ces possibilités, <strong>un atelier de programmation à l'aide de RenPy</strong> est
+organisé le <strong>vendredi 31 octobre 2025 à 15h30* à la **médiathèque Émile Zola à Montpellier.</strong></p>
+
+<p>✨ Atelier gratuit. Nombre de places limité. Inscription obligatoire.</p>
+
+<p>Public : 12 ans +</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[CoderDojo Montpellier animera un atelier RenPy le vendredi 31 octobre 2025 à 15h30 à la médiathèque Emile Zola.]]></summary></entry><entry><title type="html">Fête de la Science 2025</title><link href="http://localhost:4000/cd/session/2025/10/04/fete-de-la-science.html" rel="alternate" type="text/html" title="Fête de la Science 2025" /><published>2025-10-04T11:31:29+02:00</published><updated>2025-10-04T11:31:29+02:00</updated><id>http://localhost:4000/cd/session/2025/10/04/fete-de-la-science</id><content type="html" xml:base="http://localhost:4000/cd/session/2025/10/04/fete-de-la-science.html"><![CDATA[<p><strong>CoderDojo Montpellier</strong> sera présent à la fête de la Science <strong>samedi 4 et dimanche 5 octobre
+2025</strong>.
+Nous animerons des <strong>ateliers "Mikrotopies"</strong> où nous explorerons de manière ludique les
+futurs désirables (ou non) de mondes où l'intelligence artificielle aura profondément
+transformé notre quotidien. 
+Fiche de l'atelier.</p>
+
+<p>L'accès à l'évènement fête de la Science est libre et gratuit. L'inscription aux ateliers se fait sur
+place.
+Nous sommes localisés en salle I3 – 40.</p>
+
+<p>N'hésitez pas à passer nous voir !</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[CoderDojo Montpellier sera présent à la fête de la Science samedi 4 et dimanche 5 octobre 2025. Nous animerons des ateliers "Mikrotopies" où nous explorerons de manière ludique les futurs désirables (ou non) de mondes où l'intelligence artificielle aura profondément transformé notre quotidien.  Fiche de l'atelier.]]></summary></entry><entry><title type="html">Atelier micro:bit &amp;amp; Scratch à la médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2025/10/04/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier micro:bit &amp;amp; Scratch à la médiathèque Emile Zola" /><published>2025-10-04T11:31:29+02:00</published><updated>2025-10-04T11:31:29+02:00</updated><id>http://localhost:4000/cd/session/2025/10/04/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2025/10/04/med-emile-zola.html"><![CDATA[<p>CoderDojo Montpellier animera un <strong>atelier Micro:bit + Scratch</strong> le samedi 04 octobre 2025 à
+la médiathèque Emile Zola.</p>
+
+<p>La carte micro:bit a été développée pour initier à la programmation et à l’électronique
+de manière accessible et ludique. Équipée de <strong>LEDs programmables</strong>, de <strong>capteurs
+de mouvement et de température</strong>, de <strong>boutons interactifs</strong> et même d’une
+<strong>boussole</strong>, elle permet de créer des projets variés : affichage de messages, compteur
+de pas, détecteur de température ou encore mini-console de jeux.</p>
+
+<p>Pour découvrir ces possibilités, <strong>un atelier de programmation à l'aide de Scratch
+est organisé le samedi 4 octobre 2025</strong> à la <strong>médiathèque Émile Zola</strong> à
+Montpellier. Au cours de cet atelier nous programmerons un jeu vidéo utilisant la
+carte micro:bit comme périphérique de contrôle.</p>
+
+<p>✨ <strong>Atelier gratuit. Nombre de places limité. Inscription obligatoire.</strong></p>
+
+<p>Public : 9 ans +</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[CoderDojo Montpellier animera un atelier Micro:bit + Scratch le samedi 04 octobre 2025 à la médiathèque Emile Zola.]]></summary></entry><entry><title type="html">Antigone des Associations 2025</title><link href="http://localhost:4000/cd/session/2025/09/07/antigone-des-assos.html" rel="alternate" type="text/html" title="Antigone des Associations 2025" /><published>2025-09-07T11:31:29+02:00</published><updated>2025-09-07T11:31:29+02:00</updated><id>http://localhost:4000/cd/session/2025/09/07/antigone-des-assos</id><content type="html" xml:base="http://localhost:4000/cd/session/2025/09/07/antigone-des-assos.html"><![CDATA[<p>Venez échanger aujourd'hui avec l'équipe CoderDojo Montpellier au cours de l'Antigone des
+Associations 2025.
+Nous sommes localisés à <strong>l'emplacement 00850, avenue du Pirée</strong> (le long du Lez).</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[Venez échanger aujourd'hui avec l'équipe CoderDojo Montpellier au cours de l'Antigone des Associations 2025. Nous sommes localisés à l'emplacement 00850, avenue du Pirée (le long du Lez).]]></summary></entry></feed>
