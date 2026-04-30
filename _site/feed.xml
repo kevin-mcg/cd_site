@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-24T12:22:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CoderDojo Montpellier</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Atelier Python | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier Python | médiathèque Emile Zola" /><published>2026-02-07T10:31:29+01:00</published><updated>2026-02-07T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2026/02/07/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html"><![CDATA[<p>Les plus anciens d'entre nous se souviennent peut-être des jeux d'aventure sur les
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-30T11:21:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CoderDojo Montpellier</title><subtitle>Association visant à fournir une opportunité aux enfants de decouvrir et pratiquer l&apos;informatique.</subtitle><entry><title type="html">Atelier débranché | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2026/04/18/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier débranché | médiathèque Emile Zola" /><published>2026-04-18T11:31:29+02:00</published><updated>2026-04-18T11:31:29+02:00</updated><id>http://localhost:4000/cd/session/2026/04/18/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/04/18/med-emile-zola.html"><![CDATA[<p>Prêts pour un défi sans écran ? Rejoignez CoderDojo Montpellier pour un atelier
+spécial « <strong>informatique débranchée</strong> ». Nous allons explorer les rouages du
+numérique à travers des activités ludiques, car il est possible de maîtriser les bases
+fondamentales de l'informatique <strong>sans même toucher un clavier.</strong></p>
+
+<p>Au programme : décoder des messages secrets avec la cryptographie, compter
+comme une machine grâce aux nombres binaires, ou encore découvrir des
+algorithmes de tri ultra-rapides. Ces activités permettent de développer votre «
+<strong>pensée informatique</strong> » tout en stimulant la créativité et la résolution de problèmes
+en équipe.</p>
+
+<p>Pourquoi le débranché ? Parce que l'ordinateur peut parfois être une distraction ; en
+s'en passant, on se concentre sur la logique pure pour comprendre comment les
+machines « pensent » réellement. On vous attend nombreux pour cette aventure où
+<strong>votre cerveau sera le seul processeur</strong> ! ✨</p>
+
+<p>✨ <strong>Atelier gratuit. Nombre de places limité. Inscription obligatoire.</strong></p>
+
+<p>Public : 9 ans+ <br />
+10 places</p>]]></content><author><name></name></author><category term="CD" /><category term="session" /><summary type="html"><![CDATA[Prêts pour un défi sans écran ? Rejoignez CoderDojo Montpellier pour un atelier spécial « informatique débranchée ». Nous allons explorer les rouages du numérique à travers des activités ludiques, car il est possible de maîtriser les bases fondamentales de l'informatique sans même toucher un clavier.]]></summary></entry><entry><title type="html">Atelier Python | médiathèque Emile Zola</title><link href="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html" rel="alternate" type="text/html" title="Atelier Python | médiathèque Emile Zola" /><published>2026-02-07T10:31:29+01:00</published><updated>2026-02-07T10:31:29+01:00</updated><id>http://localhost:4000/cd/session/2026/02/07/med-emile-zola</id><content type="html" xml:base="http://localhost:4000/cd/session/2026/02/07/med-emile-zola.html"><![CDATA[<p>Les plus anciens d'entre nous se souviennent peut-être des jeux d'aventure sur les
 premiers PC. Le graphisme était rudimentaire, les commandes étaient passées au
 format texte dans un prompt austère. Ci-dessus une copie d'écran du jeu Tera
 (1986).</p>
