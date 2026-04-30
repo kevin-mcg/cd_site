@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+<img src="/cd.svg">
+<h3>{{- site.description | escape -}}</h3>
