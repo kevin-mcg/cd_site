@@ -4,15 +4,9 @@ title: Association
 permalink: /asso/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Nous sommes une association destinée à faire connaître aux enfants et adolescents la programmation informatique. Nous avons créé notre association à Montpellier en mai 2015, elles s’inscrit dans une communauté internationale de CoderDojo présents déjà dans plus de soixante pays. Chaque CoderDojo est indépendant mais partage des valeurs commune de volontariat, gratuité et enseignement dirigé par les enfants eux même.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Fin 2024, Code Club a absorbé la marque de CoderDojo...
 
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="/logo_equation.svg">

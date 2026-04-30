@@ -4,15 +4,33 @@ title: Ressources
 permalink: /ressources/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Pour les débutants : <br>
+Code.org <br>
+Scratch <br>
+Edison <br>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Pour les amateurs : <br>
+AppInventor – Développement application sur Android à la Scratch <br>
+Arduino <br>
+Raspberry Pi <br>
+RPi tutoriels en français – Scratch | HTML | CSS | Python <br>
+Python <br>
+PICO-8 <br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Pour les confirmés :
+Greenfoot <br>
+Nand2Tetris <br>
+Project Euler <br>
 
+Pour tous les niveaux : <br>
+L’informatique débranché – part I et part II en français
+CS Unplugged en anglais <br>
+La danse du trí à bulle ! <br>
+Et d’autres algorithmes sur YouTube <br>
 
-[jekyll-organization]: https://github.com/jekyll
+Magazines : <br>
+HelloWorld – anglais <br>
+beanz – anglais <br>
+
+Cours de programmation de plusieurs langages en ligne : <br>
+OpenClassrooms
