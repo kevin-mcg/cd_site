@@ -5,5 +5,5 @@
 layout: home
 ---
 
-<img src="/cd.svg">
+<img src="/cd.png">
 <h3>{{- site.description | escape -}}</h3>
