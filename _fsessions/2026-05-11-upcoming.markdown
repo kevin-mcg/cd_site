@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Mission Micro:bit : Crée ton propre Escape Game !"
+date:   2026-05-11 11:31:29 +0200
+categories: CD session
+permalink: "/next-session/"
+---
+
+🔐 Mission Micro:bit : Crée ton propre Escape Game à la médiathèque Emile Zola.
+
+<p align="center">
+  <img src="/microbit.png" />
+</p>
+
+Prêts pour un défi d'immersion ? Rejoignez-nous pour un atelier spécial « **Escape Game numérique** ». Nous allons transformer la carte micro:bit en un véritable moteur d'énigmes interactives pour mettre vos talents de codeur à l'épreuve.
+
+Au programme : programmer l'affichage d'indices sur la matrice LED, créer des alertes avec le son et utiliser la communication radio pour faire interagir les cartes entre elles. Ces défis permettent de **manipuler la logique de programmation tout en stimulant la créativité et la coopération.**
+
+Pourquoi la micro:bit ? Parce que le code devient physique ! En créant vos propres mécanismes, vous comprenez concrètement comment l'électronique et le logiciel fusionnent pour créer **une expérience de jeu unique.** 🚀✨
+
+✨ **Atelier gratuit. Nombre de places limité. [Inscription obligatoire](https://mediatheques.montpellier3m.fr/Default/doc/AGENDA/26794/programmer-la-carte-micro-bit-avec-coder-dojo).**
+
+Public : 9 ans+ <br>
+10 places
